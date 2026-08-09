@@ -61,7 +61,7 @@ Supported languages for month/day names and holiday descriptions:
 ## Installation
 
 ```bash
-git clone https://github.com/egatakebede>/kenat-api.git
+git clone https://github.com/egatakebede/kenat-api.git
 cd kenat-api
 composer install
 cp .env.example .env
